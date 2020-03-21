@@ -142,3 +142,11 @@ w∗是要学习的参数（*表示 x,y,w,h， 也就是每一个变换对应一
 
 ![Mask-RCNN整体架构](./images/mask-rcnn.png)
 
+## 手势识别
+
+整个准备以及完善路线主干，以及自己在DL学些过程中的一步步的进阶。
+
+CNN—> AlexNet(自行剪枝，提升2%)—>Mask-RCNN—>DCTNet(CVPR2020)
+
+接下来继续完善.......:smile::fire:
+
